@@ -1,0 +1,35 @@
+html, body, table {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+td {
+	text-align: center;
+}
+
+.Calculator {
+	font-family: Roboto;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+.Calculator__output {
+	background-color: black;
+	color: white;
+}
+
+.Calculator__enter {
+	background-color: #F1F1F1;
+}
+
+.Calculator__fun {
+	background-color: #FF9800;
+	color: white;
+}
+
+.Calculator__numb {
+	background-color: #555555;
+	color: white;
+}
